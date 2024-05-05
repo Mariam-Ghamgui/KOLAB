@@ -22,7 +22,7 @@ Follow these steps to run the project locally:
 4. Start the development server: `npm start`.
 
 ## Screenshots
-![alt text](<Screenshot 2024-05-04 170952.png>)
+![alt text](<KOLAB.png>)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
